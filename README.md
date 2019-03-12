@@ -134,4 +134,4 @@ General Meta Rules
  
  * Use CSS without a framework such as Bootstrap. ( I am already quite familiar with Bootstrap and I want to learn another method. Particularly CSS GRID ).
  * I used some CSS grid and some CSS flexbox.  Both were kind of tricky to get to work the way I wanted. I think I like grid better of the two after completing this project. 
- * But I still much prefer Bootstrap, but realize how much trimmed down the html was for this project without using Bootstrap. # udacity-portfolio-project
+ * But I still much prefer Bootstrap, but realize how much trimmed down the html was for this project without using Bootstrap. # udacity-portfolio-project.
