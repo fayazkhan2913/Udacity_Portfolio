@@ -1,7 +1,13 @@
 ## My Portfolio Website for Udacity Front End Nanodegree program  
  
 ### Project Rubric 
-   
+ 
+##### The page at minimum includes all of the following:
+ * at least 4 images
+ * title text (h1, h2, etc.)
+ * regular (paragraph) text
+ * a logo.
+ 
 #### Semantic HTML
 
 * HTML5 semantic tags such as `<header>, <footer>, <article>, <section>` etc. are used to add meaning to the code.
